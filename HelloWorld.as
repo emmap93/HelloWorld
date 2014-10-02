@@ -4,6 +4,7 @@
 
 		public function HelloWorld() {
 			// constructor code
+			trace("hello");
 		}
 
 	}
